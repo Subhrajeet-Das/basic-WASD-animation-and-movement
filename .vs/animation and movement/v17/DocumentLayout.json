@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\subhr\\animation and movement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD38D2E4-7849-66AC-16F5-FC605F9A7D0C}|Assembly-CSharp.csproj|c:\\users\\subhr\\animation and movement\\assets\\ginjagaming\\finalcharactercontroller\\scripts\\playerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD38D2E4-7849-66AC-16F5-FC605F9A7D0C}|Assembly-CSharp.csproj|solutionrelative:assets\\ginjagaming\\finalcharactercontroller\\scripts\\playerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\subhr\\animation and movement\\Assets\\GinjaGaming\\FinalCharacterController\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\GinjaGaming\\FinalCharacterController\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD38D2E4-7849-66AC-16F5-FC605F9A7D0C}|Assembly-CSharp.csproj|c:\\users\\subhr\\animation and movement\\assets\\ginjagaming\\finalcharactercontroller\\scripts\\playerlocomotioninputt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD38D2E4-7849-66AC-16F5-FC605F9A7D0C}|Assembly-CSharp.csproj|solutionrelative:assets\\ginjagaming\\finalcharactercontroller\\scripts\\playerlocomotioninputt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD38D2E4-7849-66AC-16F5-FC605F9A7D0C}|Assembly-CSharp.csproj|C:\\Users\\subhr\\animation and movement\\assets\\ginjagaming\\finalcharactercontroller\\scripts\\playeranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD38D2E4-7849-66AC-16F5-FC605F9A7D0C}|Assembly-CSharp.csproj|solutionrelative:assets\\ginjagaming\\finalcharactercontroller\\scripts\\playeranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD38D2E4-7849-66AC-16F5-FC605F9A7D0C}|Assembly-CSharp.csproj|c:\\users\\subhr\\animation and movement\\assets\\ginjagaming\\finalcharactercontroller\\scripts\\playercontrollerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD38D2E4-7849-66AC-16F5-FC605F9A7D0C}|Assembly-CSharp.csproj|solutionrelative:assets\\ginjagaming\\finalcharactercontroller\\scripts\\playercontrollerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerState.cs",
+              "DocumentMoniker": "C:\\Users\\subhr\\animation and movement\\Assets\\GinjaGaming\\FinalCharacterController\\Scripts\\PlayerState.cs",
+              "RelativeDocumentMoniker": "Assets\\GinjaGaming\\FinalCharacterController\\Scripts\\PlayerState.cs",
+              "ToolTip": "C:\\Users\\subhr\\animation and movement\\Assets\\GinjaGaming\\FinalCharacterController\\Scripts\\PlayerState.cs",
+              "RelativeToolTip": "Assets\\GinjaGaming\\FinalCharacterController\\Scripts\\PlayerState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T21:26:00.873Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerControllerr.cs",
+              "DocumentMoniker": "C:\\Users\\subhr\\animation and movement\\Assets\\GinjaGaming\\FinalCharacterController\\Scripts\\PlayerControllerr.cs",
+              "RelativeDocumentMoniker": "Assets\\GinjaGaming\\FinalCharacterController\\Scripts\\PlayerControllerr.cs",
+              "ToolTip": "C:\\Users\\subhr\\animation and movement\\Assets\\GinjaGaming\\FinalCharacterController\\Scripts\\PlayerControllerr.cs",
+              "RelativeToolTip": "Assets\\GinjaGaming\\FinalCharacterController\\Scripts\\PlayerControllerr.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAowIYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T21:14:33.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerLocomotionInputt.cs",
+              "DocumentMoniker": "C:\\Users\\subhr\\animation and movement\\Assets\\GinjaGaming\\FinalCharacterController\\Scripts\\PlayerLocomotionInputt.cs",
+              "RelativeDocumentMoniker": "Assets\\GinjaGaming\\FinalCharacterController\\Scripts\\PlayerLocomotionInputt.cs",
+              "ToolTip": "C:\\Users\\subhr\\animation and movement\\Assets\\GinjaGaming\\FinalCharacterController\\Scripts\\PlayerLocomotionInputt.cs",
+              "RelativeToolTip": "Assets\\GinjaGaming\\FinalCharacterController\\Scripts\\PlayerLocomotionInputt.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T21:07:36.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\subhr\\animation and movement\\Assets\\GinjaGaming\\FinalCharacterController\\Scripts\\PlayerAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\GinjaGaming\\FinalCharacterController\\Scripts\\PlayerAnimation.cs",
+              "ToolTip": "C:\\Users\\subhr\\animation and movement\\Assets\\GinjaGaming\\FinalCharacterController\\Scripts\\PlayerAnimation.cs",
+              "RelativeToolTip": "Assets\\GinjaGaming\\FinalCharacterController\\Scripts\\PlayerAnimation.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvyMAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T18:44:12.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\subhr\\animation and movement\\Assets\\GinjaGaming\\FinalCharacterController\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\GinjaGaming\\FinalCharacterController\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\subhr\\animation and movement\\Assets\\GinjaGaming\\FinalCharacterController\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\GinjaGaming\\FinalCharacterController\\Scripts\\PlayerController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:39:02.329Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1186,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
